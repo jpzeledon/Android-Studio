@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.josepablo.accesstophoneservices.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@android:color/holo_blue_light"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnUdemy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00FFFF"
+            android:text="Let´s open Undemy.com" />
+
+        <Button
+            android:id="@+id/btnSearchGoogle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00FFFF"
+            android:text="Let´s search on google" />
+
+        <Button
+            android:id="@+id/btnCall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00FFFF"
+            android:text="Let´s call someone" />
+
+        <Button
+            android:id="@+id/btnAccessDialPad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00FFFF"
+            android:text="Let´s access the dial pad" />
+
+    </LinearLayout>
+
+</RelativeLayout>

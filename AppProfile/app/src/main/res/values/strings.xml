@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Profile</string>
+    <string name="please_enter_your_password">Please Enter Your Password</string>
+    <string name="please_enter_your_email">Please Enter Your Email</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="please_enter_yout_user_name">Please Enter Yout User Name</string>
+</resources>
