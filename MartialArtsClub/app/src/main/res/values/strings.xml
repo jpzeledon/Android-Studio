@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MartialArtsClub</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Gray</item>
+    </string-array>
+
+</resources>
